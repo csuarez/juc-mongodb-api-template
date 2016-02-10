@@ -1,6 +1,6 @@
 # juc-mongodb-api
 
-API creada para las **II Jornadas Técnicas UEx – CIEMAT. Introducción a NoSQL con MongoDB**.
+API creada para las **II Jornadas Técnicas UEx – CIEMAT. Introducción a NoSQL con MongoDB**. Solución en [csuarez/juc-mongodb-api](https://github.com/csuarez/juc-mongodb-api).
 
 ## Instalación
 
